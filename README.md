@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Halil Tarık Elbir. I'm currently studying Software Engineering and focusing on Game Development . In my free time , I love working on Game Development with Unity.
 
 <!--
 **HTarikElbir/HTarikElbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
