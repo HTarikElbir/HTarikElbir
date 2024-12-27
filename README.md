@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Halil Tarık Elbir.  I'm currently studying Software Engineering and focusing on Game Development. In my free time , I love working on Game Development with Unity.
+I'm Halil Tarık Elbir.  I'm currently studying Software Engineering and focusing on Game Development. In my free time , I love working on Game Development with Unity. I am also interested in network and cybersecurity fields.
 
 
 ## 🌐 Socials:
