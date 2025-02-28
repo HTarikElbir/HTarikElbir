@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Halil Tarık Elbir.  I'm currently studying Software Engineering and focusing on Game Development. In my free time , I love working on Game Development with Unity. I am also interested in network technologies and cybersecurity.
+I am Halil Tarık Elbir, a Software Engineering graduate from Manisa Celal Bayar University, deeply passionate about technology. My career began in game development, where I contributed to various projects, refining both my technical skills and collaborative abilities. Upon pursuing my master’s degree, I redirected my focus to network technologies, further deepening my expertise in the field. In addition, I have been concentrating on backend development, progressively enhancing my proficiency in technologies such as ASP.NET, Entity Framework, and RESTful APIs. I continuously seek new challenges that push my boundaries and foster my professional growth.
 
 
 ## 🌐 Socials:
